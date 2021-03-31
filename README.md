@@ -196,6 +196,9 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Buffet.js](https://github.com/strapi/buffet) - React components library for Strapi plugins.
 - [One-Click](https://github.com/strapi/one-click-deploy) - One-Click source scripts used to build all official one-click apps.
 
+### <a name=''></a>
+- [NgxStrapiAuth](https://github.com/jabali2004/ngx-strapi-auth) - Angular authentication library with pre-built components.
+
 ### <a name='SDKs'></a>SDKs
 
 - [Javascript SDK](https://github.com/strapi/strapi-sdk-javascript) - Official Javascript SDK (Currently outdated).
